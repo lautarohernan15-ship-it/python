@@ -1,16 +1,17 @@
-opcion = "0"
-while opcion != "3":
-    print("\n MENÚ PRINCIPAL ")
-    print("1. Realizar Reservas")
-    print("2. Ver Estadísticas (Corte de Control)")
-    print("3. Salir")
-    opcion = input("Seleccione una opción (1-3): ")
-    
-    if opcion == "1":
-        realizar_reserva()
-    elif opcion == "2":
-        mostrar_estadisticas_corte_control()
-    elif opcion == "3":
-        print("Saliendo del sistema de reservas. ¡Hasta luego!")
-    else:
-        print("Opción inválida. Intente nuevamente.")
+#          Sistema de Reservas del Cinemacenter
+
+def realizar_reserva():
+    cap_dune_18=50
+    cap_dune_21=50
+    cap_deadpool_18=50
+    cap_deadpool_21=50
+    precio_base = 5000
+    continuar = "s"
+    archivo = open("reservas.txt","a")
+    whil continuar == "s" or contunuar == "S":
+        prin("\n NUEVA RESERVA ")
+        print("Peliculas: 1. Dune / 2. Deadpool")
+        op_pelo =input("Seleccione pelicula (1 o 2): ")
+        print ("Horarios: 1.18:00 / 2. 21:30")
+
+Sigan el resto
