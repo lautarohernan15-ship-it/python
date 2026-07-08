@@ -21,6 +21,7 @@ Funcionalidades principales
  - Consultar estadísticas básicas de ventas.
  - Salir de sistema.
 
-#IA
-hemos utilizado Gemini IA para poder ayudarnos a depurar y corregir errores en el desarollo del escenario.
+Durante el desarrollo de este proyecto, hemos utilizado **Gemini IA** como herramienta de apoyo para depurar el código y corregir errores de sintaxis en el desarrollo del escenario. 
+
+Su uso se limitó a la asistencia en la detección de fallas menores y la verificación de la lógica estructurada (como las condiciones del menú y el control de fin de archivo). Toda la lógica central, el diseño de las funciones de reserva y el procesamiento del corte de control fueron analizados, validados y comprendidos en su totalidad por los integrantes del equipo.
  
