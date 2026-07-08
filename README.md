@@ -1,5 +1,6 @@
 # Proyecto Python
-Integrantes Y Comision
+# Integrantes Y Comision
+
  gomez aguer, lautaro hernan
  Ortiz, Ruth Sofia
  Martinelli, German Bruno
