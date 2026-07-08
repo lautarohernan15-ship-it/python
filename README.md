@@ -2,8 +2,11 @@
 # Integrantes Y Comision
 
  gomez aguer, lautaro hernan
+ 
  Ortiz, Ruth Sofia
+ 
  Martinelli, German Bruno
+ 
 Comision: 1.4
 Grupo D-49
 
