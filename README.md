@@ -21,4 +21,6 @@ Funcionalidades principales
  - Consultar estadísticas básicas de ventas.
  - Salir de sistema.
 
+#IA
+hemos utilizado Gemini IA para poder ayudarnos a depurar y corregir errores en el desarollo del escenario.
  
